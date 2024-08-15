@@ -154,7 +154,7 @@ You can install the required packages using `pip`:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Make sure to adjust any file paths and repository URLs as needed. This `README.md` provides a structured overview of the project, including installation instructions, code explanation, and model evaluation.
-
+This project is licensed under the MIT License. See the [LICENSE](LICENSE)
 
 
 
